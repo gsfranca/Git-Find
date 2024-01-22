@@ -1,0 +1,21 @@
+header
+{
+    /*Size*/
+        width: 100%;
+        height: 6vw;
+
+    /*Background*/
+        background-color: #2D333B;
+
+    /*Position*/
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+h1
+{
+    /*Text*/
+        font-family: 'Inter', 'Roboto', Arial;  
+        font-size: 3.5vw; 
+        color: #FFFFFF;
+}

@@ -1,0 +1,63 @@
+/*Itens padrão*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
+*
+{
+    /*Size*/
+        margin: 0;
+        padding: 0;
+
+    /*Box-Sizing*/
+        box-sizing: border-box;
+}
+
+body
+{
+    /*Background*/
+        background-color: #1D2128;
+}
+
+hr
+{
+    /*Size*/
+        border: 0.15vh solid rgba(299, 299, 299, 0.2);
+
+    /*Background*/
+        background-color: rgba(299, 299, 299, 0.2);
+}
+
+
+button
+{
+    /*Size*/
+        border: 0.15vh solid #999999;
+        border-radius: 5vh;
+        padding: 0.8vw 4vh;
+
+    /*Background*/
+        background-color: #2D333B;
+
+    /*Text*/
+        font-size: 1.5vw;
+        color: white;
+
+    /*Mouse*/
+        cursor: pointer;
+}
+
+input
+{
+    /*Size*/
+        border: 0.15vh solid #999999;
+        border-radius: 5vh;
+        padding: 0.8vw 2vh;
+        width: 80%;
+        margin-right: 2vh;
+
+    /*Background*/
+        background-color: transparent;
+
+    /*Text*/
+        font-size: 1.5vw;
+        color: white;
+}

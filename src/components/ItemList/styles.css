@@ -1,0 +1,36 @@
+.itemList
+{
+    margin: 1vw 0;
+}
+.itemList strong
+{
+    /*Text*/
+        font-size: 1.5vw;
+        font-family: 'Roboto', Arial;
+        font-weight: 300;
+        color: #539BF5;
+}
+.itemList p
+{
+    /*Text*/
+        font-size: 1.2vw;
+        font-family: 'Roboto', Arial;
+        color: #999999;
+
+    /*Size*/
+        margin-top: 1vw;
+        margin-bottom: 1vw;
+}
+.repositorio
+{
+    /*Text*/
+        font-size: 2.3vw;
+        font-family: 'Roboto', Arial; 
+        font-weight: 700;
+        text-align: center; 
+
+    /*Position*/
+        margin: 2vw 0;
+
+        
+}
